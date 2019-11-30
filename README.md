@@ -1,1 +1,1 @@
-# virmach_flash_sale
+# Virmach Black Friday Flash Sale Monitor
