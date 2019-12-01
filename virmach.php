@@ -52,7 +52,7 @@ do {
 > **[立即购买](https://billing.virmach.com/cart.php?a=add&pid={$arr['pid']}&aff=9028&billingcycle=annually)**\n
 ```
 定位：{$tag}
-MJJ值：{$MJJ}G
+MJJ值：{$MJJ}
 MJJ值=(内存/100+CPU*10+硬盘大小)/价格，个人认为不是短板机且MJJ值>2.5性价比就很高了。
 短板机：大于15美刀，内存小于1G，CPU为单核，硬盘小于15G，流量小于200G
 大内存、多核、大硬盘分别对应，内存大于价格*150，核心大于价格/7.5，硬盘大于价格1.5倍。供MJJ参考，按需购买
